@@ -1,22 +1,40 @@
-# Booki 
-Booki est un projet Web créé pour gérer les emprunts de livres.
-Il contient deux versions : Client et Admin.
-Le client peut emprunter et retourner des livres.
-L'administrateur peut gérer tous les éléments de l'application.
+# 📚 Booki Project
 
-## Technologies Utilisée
+**Booki** is a web application designed for managing book loans. It includes two roles:  
+- **Client**: Borrow and return books.  
+- **Admin**: Manage users, books, and loans efficiently.
 
-- **Frontend:**
-  - HTML/CSS
-  - JavaScript
-  - React.js
- 
+---
 
-- **Backend:**
- - Node Js / Express
-  - Docker
-  - RabbitAmqp
-    
+## 🚀 Features
+
+- **Client Features**:
+  - Borrow and return books.
+  - View loan history.
+
+- **Admin Features**:
+  - Manage books (add, edit, delete).
+  - Handle user accounts and loan records.
+
+- **Modern Architecture**:
+  - Microservices-based setup using Docker and RabbitMQ.
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend:
+- **React.js**
+- **HTML/CSS**
+- **JavaScript**
+
+### Backend:
+- **Node.js / Express.js**
+- **RabbitMQ**
+- **Docker**
+
+---
+
 ## Installation
 
 
